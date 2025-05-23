@@ -81,7 +81,7 @@ The app uses a local SQLite database (taskTracker.db). The DAO handles connectio
 
 No manual setup is needed — just make sure the .db file is in the root project directory.
 
-✨ Screenshots (optional)
+✨ Screenshots 
 
 
 ![addtask](https://github.com/user-attachments/assets/85ea2aa7-27b2-4964-8b2c-850dfe237e0a)
