@@ -62,7 +62,7 @@ personal-task-tracker/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/personal-task-tracker.git
+   git clone https://github.com/rahu1choudhary/TaskTracker.git
 Open in Eclipse (Maven Project):
 
 File > Import > Existing Maven Project > Select project directory
