@@ -57,11 +57,6 @@ personal-task-tracker/
 ├── pom.xml <-- Maven dependencies
 └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ##  How to Run
 
@@ -80,9 +75,6 @@ Right-click project > Run As > Run on Server
 
 Access the app:
 
-bash
-Copy
-Edit
 http://localhost:8080/personal-task-tracker/
 🗃️ Database
 The app uses a local SQLite database (taskTracker.db). The DAO handles connections using JDBC.
